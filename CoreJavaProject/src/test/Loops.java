@@ -11,7 +11,7 @@ public class Loops {
 				break;
 			i++;
 		}
-		System.out.println("Git changes");
+		System.out.println("Git changes2");
 		
 		
 		//do while loop -> Exit control loop
